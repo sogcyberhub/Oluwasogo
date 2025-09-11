@@ -8,6 +8,26 @@ Experienced Agile Leader transitioning into cybersecurity, with 6+ years of expe
 
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and also with great interest in Network Security, Product Security, ISRM, GR, and Cloud Security.
 
+## Projects
+- Detection Lab
+- SOC Automation Project
+- Based Intrusion Detection System (AWS)
+- Penetration Testing with Nessus & FileZilla
+- Secure Email with Open PGP
+- Forensics Analysis with WinHex
+- Cryptanalysis
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/oilesanmi/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -69,26 +89,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 <img src="https://img.shields.io/badge/2021%20Common%20Threats%20-%20KnowBe4-FF6600?style=for-the-badge&logo=knowbe4&logoColor=white" />
 <img src="https://img.shields.io/badge/2021%20Kevin%20Mitnick%20Security%20Awareness-KnowBe4-FF6600?style=for-the-badge&logo=knowbe4&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Based Intrusion Detection System (AWS)
-- Penetration Testing with Nessus & FileZilla
-- Secure Email with Open PGP
-- Forensics Analysis with WinHex
-- Cryptanalysis
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/oilesanmi/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-<hr/>
 
 ## 🤳 Connect With Me
 
