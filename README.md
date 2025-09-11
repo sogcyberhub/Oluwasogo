@@ -22,6 +22,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 <hr/>
 
 ### Hands-on Labs
+- <a href="https://github.com/oilesanmi/Cisco-Networking-Labs">Cisco Networking Lab</a>
 - Based Intrusion Detection System (AWS)
 - Penetration Testing with Nessus & FileZilla
 - Secure Email with Open PGP
