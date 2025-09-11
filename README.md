@@ -8,14 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and also with great interest in Network Security, Product Security, ISRM, GR, and Cloud Security.
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Based Intrusion Detection System (AWS)
-- Penetration Testing with Nessus & FileZilla
-- Secure Email with Open PGP
-- Forensics Analysis with WinHex
-- Cryptanalysis
+### Projects
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -26,6 +19,13 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+- Detection Lab
+- SOC Automation Project
+- Based Intrusion Detection System (AWS)
+- Penetration Testing with Nessus & FileZilla
+- Secure Email with Open PGP
+- Forensics Analysis with WinHex
+- Cryptanalysis
 <hr/>
 
 ## Skills
