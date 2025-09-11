@@ -21,7 +21,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 <hr/>
 
-## Hands-on Labs
+### Hands-on Labs
 - Based Intrusion Detection System (AWS)
 - Penetration Testing with Nessus & FileZilla
 - Secure Email with Open PGP
