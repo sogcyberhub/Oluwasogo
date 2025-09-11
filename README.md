@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/oluwasogo-i-82b62885/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## IT and Cybersecurity Portfolio
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes! Proven ability to integrate secure development lifecycle practices, manage cross-functional collaboration, and drive compliance-focused delivery. Proficient in integrating advanced security measures, leveraging skills in Nessus, Python, and OpenPGP to enhance organizational asset protection. Demonstrates leadership in team development and strategic planning, driving innovation and process optimization in IT environments. 
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. Proven ability to integrate secure development lifecycle practices, manage cross-functional collaboration, and drive compliance-focused delivery. Proficient in integrating advanced security measures, leveraging skills in Nessus, Python, and OpenPGP to enhance organizational asset protection. Demonstrates leadership in team development and strategic planning, driving innovation and process optimization in IT environments. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## Objective
 
