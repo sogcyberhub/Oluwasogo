@@ -19,6 +19,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+<hr/>
 - Detection Lab
 - SOC Automation Project
 - Based Intrusion Detection System (AWS)
@@ -26,7 +27,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - Secure Email with Open PGP
 - Forensics Analysis with WinHex
 - Cryptanalysis
-<hr/>
 
 ## Skills
 
