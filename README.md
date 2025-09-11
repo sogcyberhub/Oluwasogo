@@ -32,18 +32,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Network Concept and Configuration             | Cisco Networking Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| CompTIA Network+: IP Addressing Schemes and Subnetting |
-| Digital Forensics |
-| Steganography |
-| Security Information and Event Management (SIEM) |
-| Cryptography |
-| Python Programming |
+| Vulnerability Management | <a href="https://github.com/oilesanmi/vulnerability-management-program">Vulnerability Management Project</a>|
+| Threat Hunting | <a href="https://github.com/joshmadakor0/threat-hunting-scenario-tor">Threat Hunting and Security Operations</a>|
+| Network Concept and Configuration | <a href="https://github.com/oilesanmi/vulnerability-management-program">Cisco Networking Lab</a>|
 
 ## Tools
 
