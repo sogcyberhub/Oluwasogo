@@ -20,8 +20,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
-- Detection Lab
-- SOC Automation Project
+
+## Hands-on Labs
 - Based Intrusion Detection System (AWS)
 - Penetration Testing with Nessus & FileZilla
 - Secure Email with Open PGP
