@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and also with great interest in Network Security, Product Security, ISRM, GR, and Cloud Security.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and also with great interest in Network Security, Application Security, Governance Risk & Compliance, and Cloud Security.
 
 ### Projects
 
