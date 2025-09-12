@@ -83,14 +83,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="sogthrillz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sogthrillz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="oluwasogo i | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iamtherealsog | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/sogthrillz
-[youtube]: https://www.youtube.com/c/sogthrillz
-[instagram]: https://www.instagram.com/iamtherealsog
 [linkedin]: https://www.linkedin.com/in/oluwasogo-i-82b62885/
 
 <!--
