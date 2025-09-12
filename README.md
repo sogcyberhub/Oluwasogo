@@ -35,7 +35,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management | <a href="https://github.com/oilesanmi/vulnerability-management-program">Vulnerability Management Project</a>|
 | Threat Hunting | <a href="https://github.com/oilesanmi/threat-hunting-scenario-tor">Threat Hunting and Security Operations</a>|
-| Network Concept and Configuration | <a href="https://github.com/oilesanmi/Cisco-Networking-Labs">Cisco Networking Lab</a>|
+| Network Concept and Configuration | <a href="https://github.com/oilesanmi/Cisco-Network-Lab">Cisco Networking Lab</a>|
 
 ## Tools
 
