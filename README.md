@@ -17,7 +17,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/oilesanmi/threat-hunting-scenario-tor)**
 
 <hr/>
 
@@ -34,7 +34,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management | <a href="https://github.com/oilesanmi/vulnerability-management-program">Vulnerability Management Project</a>|
-| Threat Hunting | <a href="https://github.com/joshmadakor0/threat-hunting-scenario-tor">Threat Hunting and Security Operations</a>|
+| Threat Hunting | <a href="https://github.com/oilesanmi/threat-hunting-scenario-tor">Threat Hunting and Security Operations</a>|
 | Network Concept and Configuration | <a href="https://github.com/oilesanmi/Cisco-Networking-Labs">Cisco Networking Lab</a>|
 
 ## Tools
@@ -54,7 +54,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### Cloud
