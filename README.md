@@ -1,4 +1,4 @@
-# Hello, I'm Oluwasogo Ilesanmi
+# Hello, I'm Oluwasogo
 <a href="https://www.linkedin.com/in/oluwasogo-i-82b62885/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## IT and Cybersecurity Portfolio
 
