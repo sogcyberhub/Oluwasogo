@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join in combating security threats, and also with great interest in Network Security, Application Security, Governance Risk & Compliance, and Cloud Security endeavours.
+My journey in IT has led me to develop a passion for cybersecurity. My mission is simple, enable enterprises to deliver with intelligence, integrity, and strategic foresight aimed at combating cyber threats and to enhance security of all sytems.
 
 ### Projects
 
