@@ -72,11 +72,11 @@ My journey in IT has led me to develop a passion for cybersecurity. My mission i
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Certificate%20of%20Cloud%20Security%20Knowledge-CCSK-1E293B?style=for-the-badge&logo=icloud&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Certificate%20of%20Cloud%20Security%20Knowledge-1E293B?style=for-the-badge&logo=icloud&logoColor=FACC15" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20in%20Cybersecurity-CATO%20Networks-009CDE?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/SASE%20Expert%20Level%201-CATO%20Networks-009CDE?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/SASE%20Expert%20Level%202-CATO%20Networks-009CDE?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20in%20Cybersecurity-111827?style=for-the-badge&logo=googlecloud&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/SASE%20Expert%20Level%201-111827?style=for-the-badge&logo=cloudflare&logoColor=F97316" />
+<img src="https://img.shields.io/badge/SASE%20Expert%20Level%202-111827?style=for-the-badge&logo=cloudflare&logoColor=F97316" />
 <img src="https://img.shields.io/badge/Certified%20SAFe%C2%AE%206-Release%20Train%20Engineer-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Security%20Blue%20Team%20--%20Intro%20to%20Digital%20Forensics-0057B7?style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5%20CSS%20-%20Template%20Monster-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
